@@ -1,4 +1,6 @@
- <img width="900" height="360" alt="Independent insurance agencies build a servicing desk that gives producers their selling day back" src="https://github.com/user-attachments/assets/ea115ee0-3c87-4cc4-9adf-14338b1c65f2" /> 
+Independent-insurance-agencies-build-a-servicing-desk-that-gives-producers-their-selling-day-back.
+
+<img width="900" height="360" alt="Independent insurance agencies build a servicing desk that gives producers their selling day back" src="https://github.com/user-attachments/assets/ea115ee0-3c87-4cc4-9adf-14338b1c65f2" /> 
 
 A producer is halfway through a renewal conversation when a client calls about a billing notice. Another rings about an ID card. A third needs a certificate before a job starts. Your producer answers because the client needs help, but the sales conversation loses its momentum. Meanwhile, your service team is reviewing carrier downloads, rekeying policy changes, and chasing missing information. Requests arrive by phone, email, and portal, and the next urgent item is never far away.
 
