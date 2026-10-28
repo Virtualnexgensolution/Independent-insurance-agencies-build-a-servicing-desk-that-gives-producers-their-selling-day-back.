@@ -8,38 +8,37 @@ Build a servicing desk that receives, logs, and routes routine service work usin
 
 10 Core Tasks an Independent Insurance Agency Virtual Assistant Handles Daily
 
-Triage shared inboxes: 
+1.Triage shared inboxes: 
 Tag requests by client, policy, type, and urgency; route coverage questions to licensed staff.
 
-Review carrier downloads: 
+2.Review carrier downloads: 
 Compare policy change downloads with the agency management system and flag exceptions for review.
 
-Prepare approved certificates: 
+3.Prepare approved certificates: 
 Use agency-approved templates and records; escalate any request that does not match approved details.
 
-Process ID card requests: 
+4.Process ID card requests: 
 Locate the approved policy information, prepare or retrieve the card, and route it through the agency's delivery process.
 
-Route billing inquiries: 
+5.Route billing inquiries: 
 Record the issue, identify the carrier contact or internal owner, and track follow-up.
 
-Log first notice of loss (FNOL): 
+6.Log first notice of loss (FNOL): 
 Capture the caller's reported facts and route them promptly without making coverage decisions.
 
-Prepare policy change requests: 
+7.Prepare policy change requests: 
 Collect required details and supporting documents for licensed staff to review.
 
-Record certificate delivery proof: 
+8.Record certificate delivery proof: 
 Save the date, recipient, delivery method, and final document in the correct client file.
 
-Assemble renewal preparation packets: 
+9.Assemble renewal preparation packets: 
 Organize documents and outstanding information for account managers and producers.
 
-Create an end-of-day service log: 
+10.Create an end-of-day service log: 
 Summarize completed items, pending requests, escalations, and next owners.
 
-The Technical Fixer: 
-7 SOPs to Build Your Servicing Desk
+The Technical Fixer 7 SOPs to Build Your Servicing Desk
 
 SOP 1: Morning download and exception review
 Goal: 
