@@ -38,6 +38,7 @@ Organize documents and outstanding information for account managers and producer
 10.Create an end-of-day service log: 
 Summarize completed items, pending requests, escalations, and next owners.
 
+
 The Technical Fixer 7 SOPs to Build Your Servicing Desk
 
 SOP 1: Morning download and exception review
