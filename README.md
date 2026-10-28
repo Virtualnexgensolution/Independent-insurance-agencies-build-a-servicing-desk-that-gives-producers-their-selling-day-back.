@@ -1,3 +1,5 @@
+ <img width="900" height="360" alt="Independent insurance agencies build a servicing desk that gives producers their selling day back" src="https://github.com/user-attachments/assets/ea115ee0-3c87-4cc4-9adf-14338b1c65f2" /> 
+
 A producer is halfway through a renewal conversation when a client calls about a billing notice. Another rings about an ID card. A third needs a certificate before a job starts. Your producer answers because the client needs help, but the sales conversation loses its momentum. Meanwhile, your service team is reviewing carrier downloads, rekeying policy changes, and chasing missing information. Requests arrive by phone, email, and portal, and the next urgent item is never far away.
 
 Independent Insurance Agencies can feel busy all day and still struggle to protect time for sales and client advice. The problem is often not a lack of effort. It is that service requests interrupt the people who need uninterrupted time to sell and advise.
@@ -6,23 +8,39 @@ Build a servicing desk that receives, logs, and routes routine service work usin
 
 10 Core Tasks an Independent Insurance Agency Virtual Assistant Handles Daily
 
-Triage shared inboxes: Tag requests by client, policy, type, and urgency; route coverage questions to licensed staff.
-Review carrier downloads: Compare policy change downloads with the agency management system and flag exceptions for review.
-Prepare approved certificates: Use agency-approved templates and records; escalate any request that does not match approved details.
-Process ID card requests: Locate the approved policy information, prepare or retrieve the card, and route it through the agency's delivery process.
+Triage shared inboxes: 
+Tag requests by client, policy, type, and urgency; route coverage questions to licensed staff.
 
-Route billing inquiries: <img width="900" height="360" alt="Independent insurance agencies build a servicing desk that gives producers their selling day back" src="https://github.com/user-attachments/assets/ea115ee0-3c87-4cc4-9adf-14338b1c65f2" />
+Review carrier downloads: 
+Compare policy change downloads with the agency management system and flag exceptions for review.
 
+Prepare approved certificates: 
+Use agency-approved templates and records; escalate any request that does not match approved details.
+
+Process ID card requests: 
+Locate the approved policy information, prepare or retrieve the card, and route it through the agency's delivery process.
+
+Route billing inquiries: 
 Record the issue, identify the carrier contact or internal owner, and track follow-up.
 
 Log first notice of loss (FNOL): 
 Capture the caller's reported facts and route them promptly without making coverage decisions.
-Prepare policy change requests: Collect required details and supporting documents for licensed staff to review.
-Record certificate delivery proof: Save the date, recipient, delivery method, and final document in the correct client file.
-Assemble renewal preparation packets: Organize documents and outstanding information for account managers and producers.
-Create an end-of-day service log: Summarize completed items, pending requests, escalations, and next owners.
 
-The Technical Fixer: 7 SOPs to Build Your Servicing Desk
+Prepare policy change requests: 
+Collect required details and supporting documents for licensed staff to review.
+
+Record certificate delivery proof: 
+Save the date, recipient, delivery method, and final document in the correct client file.
+
+Assemble renewal preparation packets: 
+Organize documents and outstanding information for account managers and producers.
+
+Create an end-of-day service log: 
+Summarize completed items, pending requests, escalations, and next owners.
+
+The Technical Fixer: 
+7 SOPs to Build Your Servicing Desk
+
 SOP 1: Morning download and exception review
 Goal: 
 Catch carrier data differences early and send exceptions to the right reviewer.
